@@ -387,12 +387,12 @@ Potential future development includes:
 
 Team Members:
 
-- Add Team Member 1
-- Add Team Member 2
-- Add Team Member 3
-- Add Team Member 4
-- Add Team Member 5
-- Add Team Member 6
+- Hamza Mudassar
+- Muhammad Hashir
+- Muhammad Asad Khan
+- Muhammad Fasih
+- Muhammad Huzaifa
+- Muhammad Khubaib
 
 ---
 
